@@ -37,7 +37,7 @@
         },
 
         title: {
-            text: 'Thai Map Demo'
+            text: 'Demo 20 bath'
         },
 
         mapNavigation: {
